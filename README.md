@@ -46,5 +46,5 @@ React application which is using fake blog posts API. Main goal of this applicat
 ## Link to website
 
 ```
-
+https://zoom-blog-redux.netlify.app/
 ```
